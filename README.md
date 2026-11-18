@@ -102,6 +102,4 @@ The API endpoints can be tested using Postman or Thunder Client by sending HTTP 
 - Creating REST API endpoints.
 - Understanding routes, controllers, and database models.
 
-## Author
-**ManasCodez**
 
